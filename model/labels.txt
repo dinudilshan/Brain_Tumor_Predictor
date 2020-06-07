@@ -1,0 +1,2 @@
+0 BT_negative
+1 BT_positive
